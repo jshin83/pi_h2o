@@ -26,8 +26,11 @@ The purpose of this project is to program a Rasberry Pi to water plants. This pr
 ## Versions:
 > Version 1.0.0  07/26/19
 
+## Resources
+[medium](https://medium.com/coinmonks/architecting-your-iot-app-using-raspberry-pi-and-aws-b8b89e3ac39a)
+
 ## Creators
-> **Liz**  [Liz](https://github.com/elm)
+> **Liz**  [Liz](https://github.com/emd5)
 
 > **Jorie**  [Jorie](https://github.com/joriefernandez)
 
@@ -35,6 +38,3 @@ The purpose of this project is to program a Rasberry Pi to water plants. This pr
 
 > **Paolo**  [Paolo](https://github.com/chidrome)
 
-
-## license
-> This project is licensed under the MIT License - see the [License](https://choosealicense.com/licenses/mit/) file for details.
