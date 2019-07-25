@@ -17,5 +17,6 @@
 *What is your process to resolve conflicts?*
 
 - If there is no majority vote, the group will go to the TA or teacher for discussion.
-- How and when will you escalate the conflict if your attempts are unsuccessful?
+
+*How and when will you escalate the conflict if your attempts are unsuccessful?*
 - If we can't complete step 4 within 30 minutes, we will bring issue to a TA or Prof.
