@@ -18,10 +18,12 @@
 The purpose of this project is to program a Rasberry Pi to water plants. This program is hooked up to Amazon AWS.  
 
 ## Summary
-  
+This repo holds python scripts for the hardware.
+Our backend (API) repo is at [link]().
+Our frontend / console repo is at [link]().
 
 ## Notes
-  
+We used Raspberry Pi 3, yes / no water detecting sensors, AWS, with standalone front- and back-end.  
 
 ## Versions:
 > Version 1.0.0  07/26/19
