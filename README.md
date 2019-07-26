@@ -19,8 +19,8 @@ The purpose of this project is to program a Rasberry Pi to water plants. This pr
 
 ## Summary
 This repo holds python scripts for the hardware.
-Our backend (API) repo is at [link]().
-Our frontend / console repo is at [link]().
+Our backend (API) repo is at [pi-back-end](https://github.com/pi-H20/pi-back-end).
+Our frontend / console repo is at [pi-front-end](https://github.com/pi-H20/pi-front-end).
 
 ## Notes
 We used Raspberry Pi 3, yes / no water detecting sensors, AWS, with standalone front- and back-end.  
